@@ -52,12 +52,7 @@ Netflix-Data-Analysis/
 │
 ├── Images/
 │   ├── Dashboard.png
-│   ├── Movies_vs_TVShows.png
-│   ├── Top_Countries.png
-│   ├── Content_Rating.png
-│   ├── Yearly_Content.png
-│   └── Top_Genres.png
-│
+│   
 ├── README.md
 │
 ├── requirements.txt
