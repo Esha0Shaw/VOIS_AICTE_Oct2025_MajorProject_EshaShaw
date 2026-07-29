@@ -116,7 +116,7 @@ Dataset includes:
 
 > Add your dashboard screenshot here.
 
-![Dashboard](Images/Dashboard.png)
+![image alt](https://github.com/Esha0Shaw/VOIS_AICTE_Oct2025_MajorProject_EshaShaw/blob/Dashboard.png)
 
 ---
 
