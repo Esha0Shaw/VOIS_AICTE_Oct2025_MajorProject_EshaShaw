@@ -120,35 +120,6 @@ Dataset includes:
 
 ---
 
-## Movies vs TV Shows
-
-![Movies vs TV Shows](Images/Movies_vs_TVShows.png)
-
----
-
-## Top Countries Producing Netflix Content
-
-![Top Countries](Images/Top_Countries.png)
-
----
-
-## Content Rating Distribution
-
-![Content Rating](Images/Content_Rating.png)
-
----
-
-## Year-wise Content Added
-
-![Yearly Content](Images/Yearly_Content.png)
-
----
-
-## Top Genres
-
-![Top Genres](Images/Top_Genres.png)
-
----
 
 # 📌 Key Insights
 
@@ -165,7 +136,7 @@ Dataset includes:
 Clone the repository
 
 ```bash
-git clone https://github.com/Esha0Shaw/Netflix-Data-Analysis.git
+git clone https://github.com/Esha0Shaw/VOIS_AICTE_Oct2025_MajorProject_EshaShaw.git
 ```
 
 Move into project folder
