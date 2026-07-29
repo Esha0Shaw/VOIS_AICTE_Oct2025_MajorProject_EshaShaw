@@ -114,7 +114,6 @@ Dataset includes:
 
 ## Dashboard
 
-> Add your dashboard screenshot here.
 
 ![image alt](Dashboard.png)
 
