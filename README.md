@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange)
 ![NumPy](https://img.shields.io/badge/NumPy-Numerical-green)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-red)
+![Matplotlib](https://img.shields.io/badge/PowerBI-Visualization-red)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)
 
 ---
@@ -33,7 +33,7 @@ This project analyzes the **Netflix Movies and TV Shows Dataset** using Python t
 | Python | Programming |
 | Pandas | Data Cleaning & Analysis |
 | NumPy | Numerical Operations |
-| Matplotlib | Data Visualization |
+| PowerBI | Data Visualization |
 | Jupyter Notebook | Development Environment |
 
 ---
@@ -171,7 +171,7 @@ Run all cells.
 ```
 pandas
 numpy
-matplotlib
+Power BI
 jupyter
 notebook
 openpyxl
