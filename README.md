@@ -194,7 +194,7 @@ openpyxl
 
 **Esha Shaw**
 
-📧 Email: *Your Email*
+📧 Email: eshashaw536@gmail.com
 
 🔗 LinkedIn: https://www.linkedin.com/in/esha-shaw-956386281
 
